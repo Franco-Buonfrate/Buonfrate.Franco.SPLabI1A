@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1638362522 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637608531 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\linkedlist.h
+
+1638360651 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"miBiblioteca.h"
+
+1638360371 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\controller.h
+
+1637760909 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\mibiblioteca.h
+
+1638360465 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1638230561 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+
+1638359873 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\movies.h
+
+1638362131 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+	"miBiblioteca.h"
+
+1637760909 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\parser.h
+
+1638361023 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\segundoparcialrecuperatorio\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+
